@@ -269,23 +269,6 @@ function filterAlmostfundedOnly() {
   addGamesToPage(almostfundedFinal);
 }
 
-//<button id="almost-funded-btn">Show Almost Funded</button>
-
-//const almostFunded = document.getElementById("almost-funded-btn");
-//almostFunded.onclick = filterAlmostfundedOnly;
-
-//            <option value="Swiss Franc">CHF</option>
-//            <option value = "British Pound">GPB</option>
-//            <option value = "Kuwaiti Dinar">KWD</option>
-//            <option value = "Japanese yen">YEN</option>
-//<div class = "currencies"></div>
-//        <label for="currency">Currency: </label>
-//          <select name="currency" id="currency">
-//            <option value="USD">USD</option>
-//            <option id = "Euro" value="Euro">EURO</option>
-//          </select>
-//    </div>
-
 function ConvertToEuro() {
   deleteChildElements(gamesContainer);
   function addGamesToPageEuro(games) {
@@ -310,19 +293,3 @@ function ConvertToEuro() {
 
 //const euro = document.getElementById("currency");
 //euro.onchange = ConvertToEuro;
-
-//from almostfunded
-//unfunded.forEach(element => {almostFunded.append([])});
-
-//let almostFunded = [];
-//almostFunded.append(unfunded[0][goal]-unfunded[0][pledged]);
-//for (i = 1; i < unfunded.size(); i++) {
-//    let left = unfunded[i][goal] - unfunded[i][pledged];
-//    for (j = 0; j < almostFunded.size(); j++) {
-//        if (left < almostFunded[j]) {
-//
-//        }
-//    }
-//}
-
-//addGamesToPage(unfunded);

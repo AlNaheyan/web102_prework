@@ -1,10 +1,10 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *Sea Monster Crowdfunding*
 
-Submitted by: **Your Name Here**
+Submitted by: **Al Naheyan**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Sea Monster Crowding** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **6** hours spent in total
 
 ## Required Features
 
@@ -32,13 +32,19 @@ GIF created with ...
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
+Video Recording: 
+
+https://www.loom.com/share/6dd7ee028a354b8a8782d7a16d230470?sid=0631d802-eaa4-4f7d-8c1e-e063f79ef14e
+
 ## Notes
 
 Describe any challenges encountered while building the app.
 
+A challenge I encountered wheil building the app was using those reduce, sort, filter terms as they were a bit refresher from start. Had to do some further research and learning to understood. 
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [AL Naheyan]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
